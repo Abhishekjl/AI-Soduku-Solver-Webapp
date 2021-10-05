@@ -12,11 +12,11 @@ This project is solely inspired from **AnhMinhTran's** [Youtube Video](https://w
 ### 🛠 Sample output
 
 #### Image Upload:
-<img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromiamges.gif">
+<img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromiamges.gif" width = "500">
 
 
 #### Realtime Detection From Camera
-<img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromvideo14.gif">
+<img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromvideo14.gif" width = "500">
 
 ### 🏃‍♂️ How to Run!!
 *Step-1*: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`
@@ -60,7 +60,7 @@ Tech With Tim: https://www.youtube.com/watch?v=lK4N8E6uNr4
 |    Step-4: In each cell of sudoku matrix, detect if any number is there or not by finding contours. |<img src="ttps://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/5.png" width="200"> |
 |    Step-5: Predict those detected numbers |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/6.png" width="300"> |
 |    Step-6: Input the predicted numbers into  `Sudoku Solving algorithm` and get the out put.| |
-|    Step-7: Overlay the corresponding calculated results on to live image/video.| <img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromvideo14.gif" width="200">|
+|    Step-7: Overlay the corresponding calculated results on to live image/video.| <img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromvideo14.gif" width="300">|
 
 ### Connect with Author
 🤝 LinkedIn: [Lets Connect](linkedin.com/in/abhishek-jaiswal-27a102203)
