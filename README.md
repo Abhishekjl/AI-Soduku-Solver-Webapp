@@ -12,11 +12,11 @@ This project is solely inspired from **AnhMinhTran's** [Youtube Video](https://w
 ### 🛠 Sample output
 
 #### Image Upload:
-<img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromiamges.gif" width = "500">
+<img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromiamges.gif" width = "600">
 
 
 #### Realtime Detection From Camera
-<img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromvideo14.gif" width = "500">
+<img src="https://github.com/Abhishekjl/AI-Soduku-Solver-Webapp/blob/master/images/fromvideo14.gif" width = "600">
 
 ### 🏃‍♂️ How to Run!!
 *Step-1*: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`
@@ -56,7 +56,7 @@ Tech With Tim: https://www.youtube.com/watch?v=lK4N8E6uNr4
 |--------------|-------------------|
 | Step-1: Reading Image using File-Uploader or VideoCam.|<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/1.jpg" width="200"> |
 |    Step-2: Convert Input Image in Grayscale and apply thresholding to remove noise and to detect contours. |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/2.png" width="200"> |
-|    Step-3: Get Boundary of soduku based on (soduku contours will have max area in uploaded picture and will be at some 90 degree angle  |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/3.png" width="200"> |
+|    Step-3: Get Boundary of soduku based on (soduku contours will have max area in uploaded picture and will be at some 90 degree angle)  |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/3.png" width="200"> |
 |    Step-4: Iterate over each and every cell and Detect number if any |<img src="ttps://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/5.png" width="200"> |
 |    Step-5: Predict those detected numbers |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/6.png" width="300"> |
 |    Step-6: Input the predicted numbers array into  `Sudoku Solving algorithm` and get the out put.| |
