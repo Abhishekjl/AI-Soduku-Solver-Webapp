@@ -1,0 +1,7 @@
+Keras
+tensorflow
+streamlit
+opencv-python
+math
+numpy 
+scipy
